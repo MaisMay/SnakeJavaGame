@@ -35,7 +35,7 @@ public class Snake {
         if (direction ==3) sX[0]--;
 
         // переходы
+/
 
-        
     }
 }
